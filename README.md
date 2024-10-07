@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 Create a `.env.local` file in project root and add the following environment variable:
+
 `TRANSLATE_API_KEY="<api_key>"`
 
 Then run the development server:

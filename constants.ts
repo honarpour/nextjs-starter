@@ -1,5 +1,7 @@
 import { language } from './types';
 
+export const SITE_TITLE = "Next.js Starter";
+
 export const DEFUALT_LANGUAGE: language = 'en';
 
 export const JOKE_API_ENDPOINT = `https://v2.jokeapi.dev/joke/Any?safe-mode&type=single&lang=${DEFUALT_LANGUAGE}`;
